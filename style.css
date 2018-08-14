@@ -1,3 +1,11 @@
+#container{
+	margin: auto;
+	width: 600px;
+}
+.block {
+	margin: 20px;
+	border-bottom: 2px solid blue;
+}
 .personalDataSmall {
 	width: 200px;
 	background-color: #696969;
