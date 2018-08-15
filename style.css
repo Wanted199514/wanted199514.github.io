@@ -53,3 +53,16 @@ span {
 ul {
 	text-align: left;
 }
+.lineSmall {
+	border: block;
+	width: 170px;
+	height: 3px;
+	margin-left: 13px;
+	background-color: orange;
+}
+.lineBig {
+	border: block;
+	width: 380px;
+	height: 3px;
+	background-color: blue;
+}
